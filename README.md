@@ -1,5 +1,6 @@
 **Sample_Scraper** 
-  This python project is a web scraping tool with a REST API interface, detailed logging, configurable settings, and automated data extraction. 
+
+This python project is a web scraping tool with a REST API interface, detailed logging, configurable settings, and automated data extraction. 
 It utilizes a Flask API (app.py) to handle HTTP requests, Selenium (scraper.py) for web scraping, and helper functions (helper.py) for configuration management and logging. 
 
 **Files Overview**
