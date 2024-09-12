@@ -3,6 +3,7 @@
 This python project is a web scraping tool with a REST API interface, detailed logging, configurable settings, and automated data extraction. 
 It utilizes a Flask API (app.py) to handle HTTP requests, Selenium (scraper.py) for web scraping, and helper functions (helper.py) for configuration management and logging. 
 
+
 **Files Overview**
 1. config.json:  Contains configuration settings for Selenium and the target website URL. Credentials are not given so you need to create a Kaggle account first and use. 
 2. codes_state.json:  Provides a mapping of state FIPS codes to state names. 
