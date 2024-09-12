@@ -1,0 +1,14 @@
+{
+  "selenium": {
+    "headless": true,
+    "incognito": true
+  },
+  "website": {
+    "url": "https://www.kaggle.com/code/kerneler/starter-insurance-claim-dataset-efa06de4-6/input",
+    "bene": "https://storage.googleapis.com/kaggle-data-sets/274662/568579/compressed/bene_file.csv.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20240912%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240912T131708Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=69f132ab971c31ea1b2275ec35751b321c70285a3f75cfd5336574ea0f28414264b80984c55b69775e9ec5e24c6c9da455b4d20b153a2c071003b6cd546957e57590e655b0d0fb95f5797b5b26e9c25b83866a41e12b9f134df15fb71c6133e0e723fec19fae15d18a741db8a6482a3ea40355907398fc3da0fefcc17fc029cc23a9002bbd4200bca4806118c55b3d55c69ac6053132b86ed19074873cb6fae19ab7c05c9eef8d22a580910a7317c35162be655d6f7eda1edd020f3b2de3f1ac6f740e08fb4b81e21f4cb5fe94499fb735aee0cebb2f17783720393365dd8ff475b72b904412d1244843763f8a274501a060eab32f97bc74439da82da76d827e"
+  },
+  "credentials": {
+    "username": "<your_username>",
+    "password": "<your_password>"
+  }
+}
